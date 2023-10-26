@@ -17,7 +17,7 @@ text2=", Akshay is sleeping right now!.This is an auto generated reply from his 
 
 time.sleep(30) # 30 sec. to scan the QR code 
 
-namelist = ["Akka","Amma","Sri"] # List of names 
+namelist = ["Ravi","Kishore","Danny"] # List of names 
 
 while(True):
     for name in namelist:
